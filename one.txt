@@ -1,3 +1,5 @@
 This is new file and first commit from second branch.
 
 This new data 
+
+This conflict has been resolved
